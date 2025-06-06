@@ -25,7 +25,7 @@
 
 $(document).ready(function(){
 	$(".contentsPanel").each(function() {                
-		$(this).prepend('<div class="hidePanel">[非表示]</div><div class="showPanel">[show]</div>');
+		$(this).prepend('<div class="hidePanel">[hide]</div><div class="showPanel">[show]</div>');
 	});
 	
 	

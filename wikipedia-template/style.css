@@ -10,11 +10,6 @@ html {
 body {
 	margin: 0;
 }
-
-.kanren p {
-  color: #0645ad;
-}
-
 article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary {
 	display: block;
 }
@@ -271,13 +266,6 @@ h1, h2, h3, h4, h5, h6 {
 	padding-top: 0.5em;
 	padding-bottom: 0.17em;
 }
-
-.pagefooter {
-  border-top: 1px solid #cccccc; /* 真っ黒の線 */
-  width: 100%;
-  box-sizing: border-box;
-}
-
 .article h1 {
 	font-family: 'Linux Libertine','Georgia','Times',serif;
 	border-bottom: 1px solid #a2a9b1;
